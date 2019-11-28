@@ -8,6 +8,13 @@ Generate a user statistics for a git repository on the active branch.
 
 # Example
 
+  +             +          +      +              +
+  | Author      | Commits  | LOC  | Empty lines  |
+  +             +          +      +              +
+  | Jonas Zinn  | 2        | 204  | 38           |
+  |             |          |      |              |
+  | Total       | 2        | 204  | 38           |
+  +             +          +      +              +
 
 
 
