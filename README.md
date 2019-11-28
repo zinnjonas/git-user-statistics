@@ -3,12 +3,13 @@ Generate a user statistics for a git repository on the active branch.
 
 # Options
 
-| Name | Description|
+| Name | Description |
+|:----:|:-----------:|
 | -v | prints per file for each user the total number of code lines / empty lines |
 
 
 # Example
-
+```
   +             +          +      +              +
   | Author      | Commits  | LOC  | Empty lines  |
   +             +          +      +              +
@@ -16,7 +17,7 @@ Generate a user statistics for a git repository on the active branch.
   |             |          |      |              |
   | Total       | 2        | 204  | 38           |
   +             +          +      +              +
-
+```
 
 
 # Table output
