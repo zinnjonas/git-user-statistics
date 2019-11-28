@@ -2,6 +2,7 @@
 Generate a user statistics for a git repository on the active branch.
 
 # Options
+
 | Name | Description|
 | -v | prints per file for each user the total number of code lines / empty lines |
 
